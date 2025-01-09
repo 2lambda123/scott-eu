@@ -1,7 +1,7 @@
 tensorflow==2.11.1
 keras==2.2.4
 numpy==1.22.0
-keras==2.1.6
+keras==3.8.0
 graphviz==0.13.2
 shapely==1.7.0
 scikit-image==0.15.0
